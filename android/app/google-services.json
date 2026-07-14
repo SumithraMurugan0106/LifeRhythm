@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317177182985",
+    "project_id": "liferhythm-3cde6",
+    "storage_bucket": "liferhythm-3cde6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317177182985:android:1f33e821ef70fb4c2ef1d8",
+        "android_client_info": {
+          "package_name": "com.liferhythm.life_rhythm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOR2dpu2gagYY8MkCahMusyokW873PPh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
